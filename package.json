@@ -1,0 +1,27 @@
+{
+  "name": "watcha-sauce",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^8.3.1",
+    "@react-three/fiber": "^7.0.24",
+    "graphql": "^16.2.0",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "three": "^0.136.0",
+    "urql": "^2.0.6"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.7",
+    "@types/react": "17.0.38",
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.7",
+    "typescript": "4.5.4"
+  }
+}
